@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. HTML
+2. CSS
+3. JAVASCRIPT
+   1. NODE-JS
+   2. EXPRESS-JS
+
+* REACT
+* REDUX
+  * REDUX-TOOLKIT
+  * REDUX-THUNK
